@@ -4,7 +4,7 @@ from tkinter import messagebox
 from PIL import ImageTk,Image
 from string import ascii_uppercase
 window=Tk()
-window.title("My HangMan")
+window.title("Hey HangMan")
 window.iconbitmap('hang_icon.ico')
 
 															
